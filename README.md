@@ -1,2 +1,2 @@
-# LeetcodeC
-Code from leetcode challenges
+# LeetCodeC
+C++ Code from LeetCode challenges
